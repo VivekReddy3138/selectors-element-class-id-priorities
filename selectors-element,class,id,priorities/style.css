@@ -1,0 +1,29 @@
+img{
+    width: 350px;
+    height: 350px;
+    border: 20px solid darkblue;
+    margin: 30px;
+    background-color: goldenrod;
+}
+#heroes{
+    text-align: center;
+     background-color: brown;
+     font-size:3rem ;
+     box-shadow: 10px 10px 10px black;
+     text-shadow: 10px 10px 10px black;
+}
+
+.tollyWoodPic {
+    background-color: rgb(3, 58, 40);
+}
+
+.bollyWoodPic{
+     background-color: rgb(43, 22, 184);
+}
+
+#punithPic{
+    background-color: darkmagenta;
+    width: 400px;
+    border: 20px dotted brown;
+    border-radius: 50%;
+}
